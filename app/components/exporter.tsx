@@ -547,9 +547,9 @@ export function ImagePreviewer(props: {
           </div>
 
           <div>
-            <div className={styles["main-title"]}>NextChat</div>
+            <div className={styles["main-title"]}><a href="https://t.co/vegtM1hlxr">Advertisement Link</a></div>
             <div className={styles["sub-title"]}>
-              github.com/Yidadaa/ChatGPT-Next-Web
+              Kindly click on the advertisement link to contribute to the upkeep of this website. We sincerely appreciate your support. Thank you!
             </div>
             <div className={styles["icons"]}>
               <ExportAvatar avatar={config.avatar} />
