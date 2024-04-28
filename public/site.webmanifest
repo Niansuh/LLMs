@@ -1,6 +1,6 @@
 {
-  "name": "NextChat",
-  "short_name": "NextChat",
+  "name": "Large Language Models (LLMs)",
+  "short_name": "LLMs",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
