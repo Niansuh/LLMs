@@ -155,7 +155,7 @@ export function SideBar(props: { className?: string }) {
     >
       <div className={styles["sidebar-header"]} data-tauri-drag-region>
         <div className={styles["sidebar-title"]} data-tauri-drag-region>
-          <a href="https://horizontallywept.com/h3mpyez7?key=8968e9331619432772854194ea59330d">Support me</a>
+          <a href="https://bit.ly/3UB3z0R">Support me</a>
         </div>
         <div className={styles["sidebar-sub-title"]}>
           Clicking on "Support me" will redirect you to advertisements, allowing me to earn. Your support is greatly appreciated.
