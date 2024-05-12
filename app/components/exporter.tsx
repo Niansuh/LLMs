@@ -547,9 +547,9 @@ export function ImagePreviewer(props: {
           </div>
 
           <div>
-            <div className={styles["main-title"]}><a href="https://t.co/vegtM1hlxr">Advertisement Link</a></div>
+            <div className={styles["main-title"]}><a href="https://t.co/vegtM1hlxr">Support me</a></div>
             <div className={styles["sub-title"]}>
-              Kindly click on the advertisement link to contribute to the upkeep of this website. We sincerely appreciate your support. Thank you!
+              Clicking on "Support me" will redirect you to advertisements, allowing me to earn. Your support is greatly appreciated.
             </div>
             <div className={styles["icons"]}>
               <ExportAvatar avatar={config.avatar} />
