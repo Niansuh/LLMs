@@ -155,10 +155,10 @@ export function SideBar(props: { className?: string }) {
     >
       <div className={styles["sidebar-header"]} data-tauri-drag-region>
         <div className={styles["sidebar-title"]} data-tauri-drag-region>
-          <a href="https://t.co/vegtM1hlxr">Advertisement Link</a>
+          <a href="https://horizontallywept.com/h3mpyez7?key=8968e9331619432772854194ea59330d">Support me</a>
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          Kindly click on the advertisement link to contribute to the upkeep of this website. We sincerely appreciate your support. Thank you!
+          Clicking on "Support me" will redirect you to advertisements, allowing me to earn. Your support is greatly appreciated.
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
