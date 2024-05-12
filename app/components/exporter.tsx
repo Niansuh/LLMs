@@ -549,7 +549,7 @@ export function ImagePreviewer(props: {
           <div>
             <div className={styles["main-title"]}><a href="https://bit.ly/3UB3z0R">Support me</a></div>
             <div className={styles["sub-title"]}>
-              Clicking on "Support me" will redirect you to advertisements, allowing me to earn. Your support is greatly appreciated.
+              Clicking on Support me will redirect you to advertisements, allowing me to earn. Your support is greatly appreciated.
             </div>
             <div className={styles["icons"]}>
               <ExportAvatar avatar={config.avatar} />
